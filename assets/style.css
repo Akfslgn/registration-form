@@ -51,7 +51,7 @@ body{
 
 .left .paragraph{
     margin-top: 1vw;
-    font-size: clamp(12px, 2vw, 17px);
+    font-size: clamp(15px, 2vw, 17px);
     color: #060606;
     margin-right: 5vw;
 
